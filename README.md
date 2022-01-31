@@ -1,3 +1,3 @@
 # hello-world
 hello world
-this is da read me
+this is the readme
